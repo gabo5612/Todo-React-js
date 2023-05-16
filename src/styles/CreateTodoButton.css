@@ -1,0 +1,11 @@
+.CreateTodoButton{
+    position: fixed;
+    bottom: 5%;
+    right: 10%;
+    z-index: 1;
+}
+.CreateTodoButton button{
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+    padding: 0;
+}
